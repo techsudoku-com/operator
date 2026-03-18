@@ -1,4 +1,3 @@
 module_name,container_path
 qdrant,/qdrant/storage
-qdrant,/qdrant/storage2
 minio,/data
